@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "res",
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [],
+    "java.debug.settings.onBuildFailureProceed": true,
+}
